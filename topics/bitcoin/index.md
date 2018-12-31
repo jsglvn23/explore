@@ -1,11 +1,11 @@
 ---
 aliases: bitcoin-wallet, bitcoins, bitcoin-payment
-created_by: Satoshi Nakamoto
+created_by: JOSE GALVAN
 display_name: Bitcoin
 github_url: https://github.com/bitcoin/bitcoin
 logo: bitcoin.png
 released: January 3, 2009
-short_description: Bitcoin is a cryptocurrency developed by Satoshi Nakamoto.
+short_description: Bitcoin is a cryptocurrency developed by jose GALVAN.
 topic: bitcoin
 url: https://bitcoin.org/en/
 wikipedia_url: https://en.wikipedia.org/wiki/Bitcoin
